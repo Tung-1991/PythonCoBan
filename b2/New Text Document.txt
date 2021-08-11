@@ -1,0 +1,7 @@
+b2
+dat bien
+giai thich va su dung tu khoa trong python
+su dung cac ham co san co trong chuoi string python
+su dung duoc cac so nguyen so thuc trong python
+khai bao va su dung duoc thu vien math
+tao ung dung chuan hoa chuoi ho ten
